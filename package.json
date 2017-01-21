@@ -1,0 +1,23 @@
+{
+  "name": "selfbottracker",
+  "version": "1.0.0",
+  "description": "Always Wanted To Have 2 Bots on One File Now You Can",
+  "main": "selfbot.js",
+  "dependencies": {
+    "discord.js": "^11.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBaconSpace/SelfbotTracker.git"
+  },
+  "author": "Bacon_Space",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheBaconSpace/SelfbotTracker/issues"
+  },
+  "homepage": "https://github.com/TheBaconSpace/SelfbotTracker#readme"
+}
