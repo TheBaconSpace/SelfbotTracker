@@ -1,6 +1,6 @@
 {
   "name": "selfbottracker",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Always Wanted To Have 2 Bots on One File Now You Can",
   "main": "selfbot.js",
   "dependencies": {
@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/TheBaconSpace/SelfbotTracker/issues"
   },
-  "homepage": "https://github.com/TheBaconSpace/SelfbotTracker#readme"
+  "homepage": "https://github.com/TheBaconSpace/SelfbotTracker#readme",
+  "keywords": [
+    "Self",
+    "Bot",
+    "SelfBot",
+    "Tracker",
+    "SelfBotTracker"
+  ]
 }
